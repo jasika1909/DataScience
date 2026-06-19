@@ -88,7 +88,7 @@ class JobCategoryClassifier:
             random_state=42
         )
 
-    self.is_fitted = False
+        self.is_fitted = False
 
     def rule_based_classify(self, text: str) -> str:
         """Fast rule-based classification as fallback"""
