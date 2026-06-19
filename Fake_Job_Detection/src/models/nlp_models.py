@@ -77,8 +77,12 @@ class JobCategoryClassifier:
                                       sublinear_tf=True, min_df=2)
         self.label_encoder = LabelEncoder()
         self.classifier = LogisticRegression(
-            C=5.0, solver='saga', multi_class='multinomial',
-            max_iter=1000, n_jobs=-1, random_state=42
+        C=5.0,
+        solver='saga',
+        multi_class='multinomial',
+        max_iter=1000,
+        n_jobs=-1,
+        random_state=42
         )
         self.is_fitted = False
 
