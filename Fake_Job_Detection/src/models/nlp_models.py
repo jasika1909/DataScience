@@ -3,29 +3,24 @@ import pandas as pd
 import re
 import pickle
 import logging
+
 from typing import List, Dict, Tuple, Optional
 from collections import Counter
 
 import nltk
 from nltk.corpus import stopwords
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, accuracy_score, f1_score
+from sklearn.metrics import (
+    classification_report,
+    accuracy_score,
+    f1_score
+)
+
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import StratifiedKFold
-
-import tensorflow as tf
-from tensorflow.keras.models import Sequential, Model
-from tensorflow.keras.layers import (
-    Dense, Embedding, LSTM, Bidirectional, Dropout,
-    GlobalMaxPooling1D, Input, Conv1D, Concatenate
-)
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.callbacks import EarlyStopping
-from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.utils import to_categorical
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
