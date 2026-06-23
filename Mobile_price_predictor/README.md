@@ -21,6 +21,7 @@ Provides actionable recommendations such as:
 Good Deal
 Fair Value
 Avoid / Negotiate
+
 📊 Analytics Dashboard
 
 Explore insights through:
@@ -30,6 +31,7 @@ Brand-wise Price Comparison
 Correlation Heatmap
 Feature Importance Visualization
 Mobile Specification Trends
+
 📈 Model Evaluation
 
 Displays important regression metrics:
@@ -37,6 +39,7 @@ Displays important regression metrics:
 R² Score
 Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
+
 🧠 Machine Learning Workflow
 Data Collection
 Data Preprocessing
@@ -82,6 +85,7 @@ Mobile_price_predictor/
 │
 └── utils/
     └── helper.py
+    
 ⚙️ Installation & Setup
 1. Clone Repository
 git clone https://github.com/jasika1909/DataScience.git
@@ -105,6 +109,7 @@ This will automatically train the model and create all required artifacts.
 
 5. Launch the Application
 streamlit run app.py
+
 📌 Important Note
 
 ⚠️ Due to GitHub file size restrictions, trained model files are not included in this repository.
@@ -146,7 +151,8 @@ Price Prediction Interface
 
 Feature Importance Analysis
 
-<img width="806" height="456" alt="image" src="https://github.com/user-attachments/assets/e97e349c-2974-4e12-b6c6-d20155afbbee" />   <img width="782" height="652" alt="image" src="https://github.com/user-attachments/assets/7005d003-728f-4c1c-9f67-acbbf246633a" />
+<img width="806" height="456" alt="image" src="https://github.com/user-attachments/assets/e97e349c-2974-4e12-b6c6-d20155afbbee" />   
+<img width="782" height="652" alt="image" src="https://github.com/user-attachments/assets/7005d003-728f-4c1c-9f67-acbbf246633a" />
 
 
 📈 Model Inputs
@@ -161,6 +167,7 @@ Camera Specifications
 Display Features
 Connectivity Features
 Additional Hardware Attributes
+
 🎯 Business Value
 For Consumers
 Estimate fair smartphone prices
@@ -172,6 +179,7 @@ Analyze market positioning
 For Data Science Enthusiasts
 Demonstrates an end-to-end Machine Learning pipeline
 Covers preprocessing, model training, evaluation, and deployment
+
 🔮 Future Enhancements
 Deep Learning-Based Price Prediction
 Real-Time Market Data Integration
@@ -179,13 +187,16 @@ Mobile Recommendation System
 API Deployment
 Cloud Deployment
 Price Trend Forecasting
+
 👩‍💻 Author
 Jasika Awasthi
 
 B.Tech – Computer Science Engineering (Data Science & Artificial Intelligence)
 
 GitHub: https://github.com/jasika1909
+
 LinkedIn: https://www.linkedin.com/in/jasika-awasthi-608037311/
+
 ⭐ Project Highlights
 End-to-End Machine Learning Project
 Mobile Price Prediction System
