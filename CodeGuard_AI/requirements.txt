@@ -1,0 +1,7 @@
+# Python 3.12 compatible. Ranges (not exact pins) so pip can pick wheels that
+# exist for your platform; all packages ship Windows wheels for Python 3.12.
+streamlit>=1.40,<2.0
+plotly>=5.24,<7.0
+pandas>=2.2
+reportlab>=4.2,<5.0
+Pygments>=2.17
