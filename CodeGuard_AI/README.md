@@ -74,18 +74,23 @@ Access code analysis capabilities through a user-friendly Streamlit application.
 Screenshots provide a visual overview of the application's interface and functionality.
 
 ### 1. Home Page
-![CodeGuard AI Home Page](images/home_page.png)
+<img width="975" height="796" alt="image" src="https://github.com/user-attachments/assets/2fd4b98c-39c5-4c49-a857-f3c23894fbd1" />
+
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f91d8810-22cf-4cf8-824c-9d673f878ec1" />
 
 ### 2. Code Analysis
-![CodeGuard AI Code Analysis](images/code_analysis.png)
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/fc73cf85-38ba-496d-8f39-a83699640132" />
 
 ### 3. Analysis Results
-![CodeGuard AI Analysis Results](images/analysis_results.png)
+<img width="1917" height="818" alt="image" src="https://github.com/user-attachments/assets/f8074090-f546-46c7-9c73-4ef4824ef458" />
+
+<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/778e7c8d-1c36-4a10-a1a3-c3c6e846623a" />
 
 ### 4. Code Review and Suggestions
-![CodeGuard AI Code Review](images/code_review.png)
+<img width="1917" height="805" alt="image" src="https://github.com/user-attachments/assets/dd50bbf7-3441-43b7-944b-0afd2bd13da8" />
 
-> Replace these image paths with screenshots captured from the actual application. Remove any section for which a corresponding screenshot or feature is unavailable.
+### 5. Teacher Dashboard
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/eb04f8ef-a652-4d03-84a2-c19617ec2ed1" />
 
 ## Project Structure
 
