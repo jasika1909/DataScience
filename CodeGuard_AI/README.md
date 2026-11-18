@@ -1,10 +1,17 @@
 # 🛡️ AI-Based Code Plagiarism Detector | CodeGuard AI
 
-\<p align="center">   \<strong>Intelligent Code Similarity & Plagiarism Analysis Platform\</strong> \</p>
+<p align="center">
+  <strong>Intelligent Code Similarity & Plagiarism Analysis Platform</strong>
+</p>
 
-\<p align="center">   Detect code similarities, identify matching code blocks, and analyze potential plagiarism across multiple programming languages. \</p>
+<p align="center">
+  Detect code similarities, identify matching code blocks, and analyze potential plagiarism across multiple programming languages.
+</p>
 
-\<p align="center">   \<a href="[https://datascience-codeguardai.streamlit.app/](https://datascience-codeguardai.streamlit.app/)">🚀 Live Demo\</a> •   \<a href="[https://github.com/jasika1909/DataScience/tree/main/CodeGuard_AI](https://github.com/jasika1909/DataScience/tree/main/CodeGuard_AI)">📂 GitHub Repository\</a> \</p>
+<p align="center">
+  <a href="https://datascience-codeguardai.streamlit.app/">🚀 Live Demo</a> •
+  <a href="https://github.com/jasika1909/DataScience/tree/main/CodeGuard_AI">📂 GitHub Repository</a>
+</p>
 
 ---
 
@@ -38,18 +45,18 @@ The platform supports individual and batch code analysis, highlights matching co
 
 ## 🛠️ Technologies Used
 
-| Category             | Technologies                                 |
-| -------------------- | -------------------------------------------- |
-| Programming Language | Python                                       |
-| Frontend / UI        | Streamlit                                    |
-| Data Processing      | Pandas                                       |
-| Visualization        | Plotly                                       |
-| Code Analysis        | Python AST, Tokenization                     |
-| Similarity Analysis  | TF-IDF, Cosine Similarity, Sequence Matching |
-| Code Comparison      | Greedy String Tiling, Semantic Analysis      |
-| Database             | SQLite                                       |
-| Report Generation    | ReportLab, CSV                               |
-| Testing              | Python Unittest                              |
+| Category | Technologies |
+|---|---|
+| Programming Language | Python |
+| Frontend / UI | Streamlit |
+| Data Processing | Pandas |
+| Visualization | Plotly |
+| Code Analysis | Python AST, Tokenization |
+| Similarity Analysis | TF-IDF, Cosine Similarity, Sequence Matching |
+| Code Comparison | Greedy String Tiling, Semantic Analysis |
+| Database | SQLite |
+| Report Generation | ReportLab, CSV |
+| Testing | Python Unittest |
 
 ## 🖥️ Application Screenshots
 
@@ -57,31 +64,31 @@ The platform supports individual and batch code analysis, highlights matching co
 
 Upload source-code files, paste code snippets, or load sample programs to begin similarity analysis.
 
-
+![Code Comparison Workspace](docs/screenshots/workspace.png)
 
 ### 2. Semantic Similarity Analysis
 
 Identify similar programming logic even when code is written using different styles or programming languages.
 
-
+![Semantic Similarity](docs/screenshots/semantic.png)
 
 ### 3. Batch Analysis
 
 Analyze multiple submissions, rank similar code pairs, and visualize relationships through a similarity heatmap.
 
-
+![Batch Analysis](docs/screenshots/batch.png)
 
 ### 4. Detailed PDF Report
 
 Generate detailed reports containing similarity scores, analysis explanations, visualizations, and matched code snippets.
 
-
+![PDF Report Details](docs/screenshots/pdf-detail.png)
 
 ### 5. PDF Report Summary
 
 View a summarized representation of the code comparison results.
 
-
+![PDF Summary](docs/screenshots/pdf-summary.png)
 
 ## ⚙️ How It Works
 
@@ -253,5 +260,8 @@ B.Tech | Computer Science Engineering (Data Science & Artificial Intelligence)
 - **GitHub:** [jasika1909](https://github.com/jasika1909)
 - **LinkedIn:** [Jasika Awasthi](https://www.linkedin.com/in/jasika-awasthi-608037311/)
 
+---
 
-\<p align="center">   ⭐ If you find this project useful, consider giving the repository a star! \</p>
+<p align="center">
+  ⭐ If you find this project useful, consider giving the repository a star!
+</p>
