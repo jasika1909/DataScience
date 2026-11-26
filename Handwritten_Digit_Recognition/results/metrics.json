@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.9883999824523926,
+  "test_loss": 0.034940458834171295,
+  "final_train_accuracy": 0.970037043094635,
+  "final_val_accuracy": 0.9903333187103271,
+  "epochs_trained": 8,
+  "total_parameters": 225034
+}
